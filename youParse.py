@@ -2,7 +2,7 @@
 
 # Name: youParse.py
 # Version: 1.5
-# Author: pantuts
+# Author: pantuts (modified by robgibbons)
 # Email: pantuts@gmail.com
 # Description: Parse URLs in Youtube Playlist (Video Playlist not Favorites)
 # Use python3 and later
